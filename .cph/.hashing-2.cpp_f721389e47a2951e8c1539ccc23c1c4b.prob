@@ -1,0 +1,1 @@
+{"name":"Local: hashing-2","url":"c:\\Users\\atiwa\\Desktop\\coding_for_ Life\\codes\\hashing-2.cpp","tests":[{"id":1645960553140,"input":"4 5\n15 20 5 15\n15 15 15 20 10","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\atiwa\\Desktop\\coding_for_ Life\\codes\\hashing-2.cpp","group":"local","local":true}
