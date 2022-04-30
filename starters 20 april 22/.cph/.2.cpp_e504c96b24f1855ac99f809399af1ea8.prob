@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"c:\\Users\\atiwa\\Desktop\\coding_for_ Life\\codes\\starters 20 april 22\\2.cpp","tests":[{"id":1650465910005,"input":"3\n4 0\n0 1\n3 1","output":"Off\nOn\nAmbiguous"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\atiwa\\Desktop\\coding_for_ Life\\codes\\starters 20 april 22\\2.cpp","group":"local","local":true}
